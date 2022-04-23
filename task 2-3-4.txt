@@ -1,0 +1,24 @@
+TASK TWO
+
+https://jonny.me/
+
+#5b43d6 
+#ffcb05 
+#ffffff
+
+TASK THREE
+
+https://www.youtube.com/
+
+As a user i want a platform to help upload videos regarless the size and the quality and i wanna be able
+to edit the videos to my likings check daily interaction able to reply to comments and add links within my 
+videos,check other user videos have features such as how many people like my content and have them recieve
+updates on when i add new content.
+
+TASK FOUR
+
+https://www.youtube.com/
+
+
+YouTube showcases something you’re passionate about ,make people laugh is a great way to 
+demonstrate to your audience that they want what you’re offering. 

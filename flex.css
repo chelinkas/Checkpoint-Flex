@@ -48,7 +48,8 @@
     margin: 2px;
 }
 
-.flexFive :nth-child(2){
+/*.flexFive :nth-child(2){*/
+.flexFive > #grow {
     flex-grow: 2;
 }
 
